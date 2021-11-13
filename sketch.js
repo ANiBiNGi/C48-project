@@ -22,6 +22,8 @@ function setup()
          message=createElement('h2')
          message.html("CPS Counter Game")
          message.position(750,40);
+
+
  
 
 }
@@ -31,6 +33,8 @@ function counter() {
     CPS:count+1
   })
 }
+
+
 
 
 
